@@ -5,11 +5,9 @@
 |key|value|
 |---|-----|
 |Name|しののめ (Foo Bar))|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
-|Qiita|[foobar](http://qiita.com/foobar)|
-|SlideShare|[foobar](http://www.slideshare.net/foobar)|
-|Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
+|Blog|[シノノメドキ](https://shinonono.net/)|
+
+
 
 ## スキル
 
@@ -25,12 +23,17 @@
 |HTML,CSS|3年以上の経験|
 |JavaScript,TypeScript,Node.JS|JavaScript,Node.JSは3年以上の経験|
 
+- AWS
+  - S3,EC2,ECS,Lambda,Dynamo,CloudFormation
+    - 実務で使用
 
+### 資格
 
-### フレームワーク
+|年|名称|
+|---|---|
+|2020|AWS ソリューションアーキテクト アソシエイト 取得
+|2015|基本情報技術者試験 合格|
 
-- Framework名
-  - 関わった製品やポートフォリオがあればそのリンクを貼る
 
 ### その他
 
@@ -46,7 +49,20 @@
 
 職務: Webアプリケーションエンジニア（例）
 
-#### WebRTCを用いた多人数ビデオチャットシステム
+#### テレビ視聴データ処理システム サーバーサイド・インフラ実装(2019/01 - 現在)
+
+- 
+
+#### 複合機 操作パネルのUI実装(2018/10 - 2018/12)
+
+- 複合機操作パネルのUI実装
+  - 技術
+    - React.js
+    - Redux
+    - CSS
+  - 
+
+#### WebRTCを用いた多人数ビデオチャットシステム(2018/03 - 2018/09)
 
 - 職務内容の詳細を箇条書きでかく
 
@@ -54,13 +70,13 @@
 
 職務: エンジニア
 
-#### 企業CSRサイトのWordpress移行
+#### 企業CSRサイトのWordpress移行(2017/12 - 2018/02)
 
 - Movable Typeで構築された求人サイトのWordPressへの移行
 - サーバー : Amazon Lightsail
 - ソフトウェア : ワードプレス，Javascript 
 
-#### 求人サイトのSEO対策
+#### 求人サイトのSEO対策(2017/05 - 2018/02)
 
 - 職務内容の詳細を箇条書きでかく
 
@@ -68,4 +84,10 @@
 
 職務: フロントエンドエンジニア
 
-#### Movable TypevベースのCMS開発
+#### 顧客管理システムのテスト(2016/12 - 2017/04)
+
+- 
+
+#### Movable TypevベースのCMS開発(2015/04 - 2017/04)
+
+- 
